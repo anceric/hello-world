@@ -3,7 +3,8 @@ hello-world example
 
 Hi Humans,
 
-cuervojulito is Here, I like Futbol. My favorite team is San Lorenzo de Almagro (Argentina).
+Christian Anceri is Here, I like Futbol. My favorite team is San Lorenzo de Almagro (Argentina).
 
-Regards,
-cuervojulito
+Best Regards,
+
+Christian
